@@ -1,5 +1,7 @@
 # palesa-s-hair-studio
-ST10517576 Karabo Chabalala
+ST10517576
+Karabo Chabalala
+Group 2
 ## Project Overview
 Palesa's Hair Studio is a hair and beauty business that provides professional hair services to clients. The purpose of this website is to create an attractive 
 and user-friendly online platform where customers can learn more about the salon, view the services offered, explore hairstyles and contact the business.
